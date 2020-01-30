@@ -1,0 +1,10 @@
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Form1.resources
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
+C:\Users\Vrah666\Documents\Visual Studio 2017\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.zdroje.resources
